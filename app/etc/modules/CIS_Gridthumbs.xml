@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CIS_Gridthumbs>
+            <active>true</active>
+            <codePool>local</codePool>
+        </CIS_Gridthumbs>
+    </modules>
+</config>
